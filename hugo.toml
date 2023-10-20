@@ -4,4 +4,14 @@ title = 'Sergei Kimmel'
 theme = "paper"
 
 [params]
-  description = 'Sergei Kimmel personal site.'
+  description = 'Sergei Kimmel personal site'
+  github = 'al-kimmel-serj'
+  linkedin = 'sergei-kimmel'
+  rss = true
+
+  avatar = 'al.kimmel.serj@gmail.com'
+  name = 'Sergei Kimmel'
+  bio = 'Software Engineer'
+
+  monoDarkIcon = true
+  math = true
