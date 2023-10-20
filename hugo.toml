@@ -1,0 +1,7 @@
+baseURL = 'https://sergei.kimmel.works/'
+languageCode = 'en-us'
+title = 'Sergei Kimmel'
+theme = "paper"
+
+[params]
+  description = 'Sergei Kimmel personal site.'
