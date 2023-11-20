@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'Sergei Kimmel'
 theme = "paper"
 
+[services]
+  [services.googleAnalytics]
+    ID = 'G-24FL02B8QR'
+
 [params]
   description = 'Sergei Kimmel personal site'
   github = 'al-kimmel-serj'
